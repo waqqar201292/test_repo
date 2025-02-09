@@ -1,5 +1,4 @@
 Hello All.
-this is
 a
 b
 c
